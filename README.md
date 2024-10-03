@@ -6,7 +6,7 @@ possible. While the code isn't completely elegant and does use some brute-force 
 such that the brute-force tasks were as limited as possible in scope. 
 
 Example Usage:
-`python ./smdm_hw1.py -d /usr/share/dict/words -g abc,def,ghi,jkl`
+`python ./letter_boxed_solver.py -d /usr/share/dict/words -g abc,def,ghi,jkl`
 
 The program can also be run completely interactively, but the verbose output is only accesible with the command-line
 flag `-v`
